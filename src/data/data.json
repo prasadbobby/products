@@ -1,0 +1,87 @@
+{
+    "products":[
+        {
+            "img":"https://rukminim1.flixcart.com/image/312/312/jnj7iq80/mobile/u/b/g/apple-iphone-xr-mryj2hn-a-original-imafa6zkm7qhv2zd.jpeg",
+            "name":"Apple iPhone XR (Black, 64 GB)",
+            "price":"₹52,500",
+            "Highlights":[
+                "64 GB ROM",
+                "15.49 cm (6.1 inch) Display",
+                "12MP Rear Camera | 7MP Front Camera",
+                "A12 Bionic Chip Processor",
+                "iOS 13 Compatible"
+            ],
+            "specifications":[
+                "General",
+                "In The Box : Handset, EarPods with Lightning Connector, Lightning to USB Cable, USB Power Adapter, Documentation",
+                "Model Number : MRY42HN/A",
+                "Model Name : iPhone XR",
+                "Color : Black",
+                "Browse Type : Smartphones",
+                "SIM Type : Dual Sim",
+                "Hybrid Sim Slot :No",
+                "Touchscreen: Yes",
+                "OTG Compatible: No",
+                "Sound Enhancements: 2 x Built-in Stereo Speaker, 2 x Built-in Microphone, Audio Playback - Wider Stereo Playback, User-configurable Maximum Volume Limit",
+                "SAR Value: 1.6 W/kg (over 1 g) SAR Limit, Head: 1.13, Body: 1.16"
+            
+            ]
+        },
+        {
+            "img":"https://rukminim1.flixcart.com/image/312/312/k7dnonk0/mobile/q/d/h/realme-6-pro-rbs0624in-original-imafpmftfgyfpndf.jpeg",
+            "name":"Realme 6 Pro (Lightning Blue, 128 GB)  (8 GB RAM)",
+            "price":"₹19,999",
+            "Highlights":[
+                "8 GB RAM | 128 GB ROM | Expandable Upto 256 GB",
+                "16.76 cm (6.6 inch) Full HD+ Display",
+                "64MP + 12MP + 8MP + 2MP | 16MP + 8MP Dual Front Camera",
+                "4300 mAh Battery",
+                "Snapdragon 720G Processor",
+                "90 Hz Ultra Smooth Display",
+                "30 W Flash Charge",
+                "Side Fingerprint Sensor | Dual In Display Selfie"
+            ],
+            "specifications":[
+                "General",
+                "In The Box : Handset, Adapter (5V/6A), Type C Cable, SIM Card Tool, Case, Warranty Card, Quick Guide",
+                "Model Number : RBS0627IN",
+                "Model Name : 6 Pro",
+                "Color : Lightning Blue",
+                "Browse Type : Smartphones",
+                "SIM Type : Dual Sim",
+                "Hybrid Sim Slot : No",
+                "Touchscreen : Yes",
+                "OTG Compatible : Yes",
+                "Sound Enhancements : Dolby Panorama Sound Effect, WCD9370 Audio Decoding Chip, Audio Certification Standard: Hi-Res, Dolby",
+                "SAR Value : Head (1 g) - 1.187 W/kg, Body (1 g) - 0.921 W/kg"
+            ]
+        },
+        {
+            "img":"https://rukminim1.flixcart.com/image/300/300/k66sh3k0/mobile/5/y/z/infinix-s5-pro-x660-original-imafzp64zpkgsrce.jpeg",
+            "name":"Infinix S5 Pro (Forest Green, 64 GB)  (4 GB RAM)",
+            "price":"₹11,499",
+            "Highlights":[
+                    "4 GB RAM | 64 GB ROM | Expandable Upto 256 GB",
+                    "16.59 cm (6.53 inch) Full HD+ Display",
+                    "48MP + 2MP + Low Light Sensor | 16MP Front Camera",
+                    "4000 mAh Li-ion Polymer Battery",
+                    "MediaTek Helio P35 (MTK6765) Processor",
+                    "Pop Up AI Selfie Camera with Full View Display"
+            ],
+            "specifications":[
+                "General",
+                "In The Box : Handset, Adaptor, USB Cable, TPU Case, Protective Screen Guard, SIM Ejector Pin, Quick Start Guide, Warranty Card",
+                "Model Number : X660",
+                "Model Name : S5 Pro",
+                "Color : Violet",
+                "Browse Type : Smartphones",
+                "SIM Type : Dual Sim",
+                "Hybrid Sim Slot : No",
+                "Touchscreen : Yes",
+                "OTG Compatible : Yes",
+                "Sound Enhancements : DTS Surround Sound",
+                "SAR Value : Head - 0.790 W/kg, Body - 0.896 W/kg"
+            ]
+        }
+    ]
+}
